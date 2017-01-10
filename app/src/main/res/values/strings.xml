@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FrescoGallery</string>
+    <string name="textView_infoPage">Android another Activity</string>
+    <string name="button_infoPage">Back</string>
+</resources>
