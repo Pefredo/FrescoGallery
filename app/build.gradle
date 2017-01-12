@@ -31,6 +31,12 @@ dependencies {
     compile 'com.facebook.fresco:animated-gif:0.14.1'
     //RECYCLERVIEW
     compile 'com.android.support:recyclerview-v7:25.1.0+'
+    //BUTTER KNIFE
+    compile 'com.jakewharton:butterknife:8.4.0'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'
+    // RETROFIT & OKHTTP
+    compile 'com.squareup.retrofit2:retrofit:2.1.0'
+    compile 'com.squareup.retrofit2:converter-gson:2.1.0'
 
     testCompile 'junit:junit:4.12'
 }
